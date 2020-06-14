@@ -9,7 +9,6 @@ var BAR_GAP = 90;
 var BAR_WIDTH = 40;
 var BAR_HEIGHT = 150;
 var TIME_X = 50;
-var TIME_Y = 65;
 var BAR_START_Y = 80;
 
 // Создаем Облако
