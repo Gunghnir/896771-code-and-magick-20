@@ -74,6 +74,7 @@ var getFireballColor = function () {
 
   // fireballColorField.style.fill = randomFireballColor;
   fireballColorField.value = randomFireballColor;
+  return fireballColorField.value;
 };
 
 // Красим элементы волшебника по клику
